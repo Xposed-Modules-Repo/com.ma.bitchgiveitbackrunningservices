@@ -3,4 +3,4 @@
 ## 版本支持
 仅支持 MIUI/Hyper 系统
 ## 开发者
-[CoolApk@sbmatch(coolmarket://www.coolapk.com/u/962507)
+[CoolApk@sbmatch](coolmarket://www.coolapk.com/u/962507)
